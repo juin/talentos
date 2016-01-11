@@ -1,0 +1,2 @@
+# talentos
+Banco de Talentos
